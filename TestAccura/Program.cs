@@ -116,6 +116,7 @@ app.Use(async (context, next) =>
 //static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
 //   WebHost.CreateDefaultBuilder(args)
 //       .UseStartup<Startup>();
+//
 
 
 // Use authentication middleware
